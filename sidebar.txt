@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tnd:home|Door43 (tnd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tnd|d43-tnd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tnd/archive/master.zip|d43-tnd.zip]]
+
+**Recent Changes**
+{{changes>ns = tnd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tnd|Ethnologue data]]
+
